@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Tuagas PM</string>
+    <string name="selamat_datang_di_universitas_esa_unggul">Selamat Datang di Universitas Esa Unggul</string>
+    <string name="program_studi_teknik_informatika_fakultas_ilmu_komputer">Program Studi Teknik Informatika - Fakultas Ilmu Komputer</string>
+    <string name="content_desc_cartoon_image">cartoon image</string>
+</resources>
